@@ -8,7 +8,7 @@ Interactive dashboard analysing drug prescriptions in France using OpenMedic dat
 
 The dashboard is available at the following link:
 
-(Add your Streamlit Cloud link here after deployment)
+https://prescription-med-dashboard-bydhytajexchwsqryh85dc.streamlit.app
 
 ---
 
